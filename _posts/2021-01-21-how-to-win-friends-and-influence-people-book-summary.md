@@ -7,6 +7,7 @@ image: assets/images/how-to-win-friends-and-influence-people.png
 description: "How to Win Friends and Influence People by Dale Carnegie Book Summary"
 featured: true
 hidden: true
+comments: false
 ---
 
 *How to Win Friends and Influence People* by Dale Carnegie was the infamous book that started the self-help genre as we know it today. Although first published in 1936, to this day, this book remains at the top of many self-help and personal development reading lists.
