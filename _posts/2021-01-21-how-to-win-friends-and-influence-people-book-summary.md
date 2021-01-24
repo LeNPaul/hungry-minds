@@ -14,9 +14,9 @@ comments: false
 
 Understandably, this book draws a lot of criticism and even controversy surrounding the intentions of the book. In all fairness, the title of the book sounds like it was written by a slimy car salesman. In fact, Dale Carnege *was* a salesman before writing this book.
 
-For me, this book is a classic that offers plenty of great advice, and I think this book is greatly misunderstood. Although some of the examples in this book are dated, the principles themselves are timeless. If you think about it, the title of the book tells you exactly what this book is about: how to win friends and influence people. It's not "how to trick people into being your friend and manipulating others". Unforunately, the title of the book seems to prompt people to believe that this is what the book is about.
+For me, this book is a classic that offers plenty of great advice, and I think this book is greatly misunderstood. Although some examples in this book are dated, the principles themselves are timeless. If you think about it, the title of the book tells you exactly what this book is about: how to win friends and influence people. It's not "how to trick people into being your friend and manipulating others". Unfortunately, the title of the book seems to prompt people to believe that this is what the book is about.
 
-Instead, I think this book gives you a lot of commonsense advice that will help you build geniune connections with people. It is advice that many people know intuitively, but do not actively practice. I treat this book more like a reminder to myself to be mindful of how I interact and build relationships with others.
+Instead, I think this book gives you a lot of commonsense advice that will help you build genuine connections with people. It is advice that many people know intuitively, but do not actively practice. I treat this book more like a reminder to myself to be mindful of how I interact and build relationships with others.
 
 ### Summary
 
@@ -72,7 +72,7 @@ You can extract the majority of the value out of this book if you read the princ
 
 12. Throw down a challenge.
 
-#### Be a Leader: How to Change People Without Giving Offense or Arousing Resentment
+#### Be a Leader: How to Change People Without Giving Offence or Arousing Resentment
 
 1. Begin with praise and honest appreciation.
 
