@@ -18,9 +18,9 @@ Although there is nothing wrong with those chapters and they are fun to read, th
 
 ### Summary
 
-Malcom Gladwell popularized the idea that you need 10,000 hours to learn something. What he really meant was that this was how long it took to become a *master* of something, to be on the level of chess grand masters and NBA players, for example. For learning how to be "good enough" and to break through the initial learning curve, you need far less time. Quality is more important than quantity in the beginning, and deliberate practice is important. You also need to have a growth mindset that believes you can learn new skills.
-
 Skill acquisition is the process of learning a skill to the point where you can begin to apply and practice that skill. For example, learning how to ride a bike or juggle three balls would be skill acquisition, and is accessible to everyone. Training to compete in the Olympics or performing in Cirque du Soleil is a different story and requires more time and training.
+
+Malcom Gladwell popularized the idea that you need 10,000 hours to learn something. What he really meant was that this was how long it took to become a *master* of something, to be on the level of chess grandmasters and NBA players, for example. For learning how to be "good enough" and to break through the initial learning curve, you need far less time. Quality is more important than quantity in the beginning, and deliberate practice is important. You also need to have a growth mindset that believes you can learn new skills.
 
 There are four major steps for rapid skill acquisition:
 
