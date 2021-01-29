@@ -5,8 +5,8 @@ categories: [ book summary ]
 tags: [ personal development ]
 image: assets/images/how-to-win-friends-and-influence-people.png
 description: "How to Win Friends and Influence People by Dale Carnegie Book Summary"
-featured: true
-hidden: true
+featured: false
+hidden: false
 comments: false
 ---
 

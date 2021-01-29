@@ -5,7 +5,7 @@ categories: [ book summary ]
 tags: [ personal development ]
 image: assets/images/the-pomodoro-technique-the-life-changing-time-management-system.png
 description: "The Pomodoro Technique: The Life-Changing Time-Management System by Francesco Cirillo Book Summary"
-featured: false
+featured: true
 hidden: true
 comments: false
 ---
@@ -36,7 +36,7 @@ There are five objectives with the Pomodoro technique that the author goes into 
 
 #### Objective I: Find Out How Much Effort an Activity Requires
 
-An "Activity Inventory Sheet" contains a list of activities that must be completed. At the beginning of each day, prioritize and choose tasks from the Activity Inventory Sheet that will be added to the "To Do Today" list. Choose a task from the "To Do Today" list and complete Pomodoros until the task is completed, after which the task will be crossed off of the "To Do Today" list. Mark how many Pomodoros were done in order to complete a task. This can be used to estimate how many Pomodoros it took to complete a certain task.
+An "Activity Inventory Sheet" contains a list of activities that must be completed. At the beginning of each day, prioritize and choose tasks from the Activity Inventory Sheet that will be added to the "To Do Today" list. Choose a task from the "To Do Today" list and complete Pomodoros until the task is completed, after which the task will be crossed off of the "To Do Today" list. Mark how many Pomodoros were done in order to complete a task. This can be used to estimate how many Pomodoros it took to complete a certain task. Keep this system as simple as possible.
 
 #### Objective II: Cut Down on Interruptions
 
@@ -50,8 +50,10 @@ For each task, estimate how many Pomodoros it will take to complete that task. I
 
 #### Objective IV: Make the Pomodoro More Effective
 
-Within each Pomodoro,  you can use the first few minutes to review what was done in the previous related Pomodoros, and the last few minutes to review what was done in the current Pomodoro. You can also structure sets of Pomodoros in a similar way.
+Within each Pomodoro,  you can use the first few minutes to review what was done in the previous related Pomodoros, and the last few minutes to review what was done in the current Pomodoro. You can also structure sets of Pomodoros in a similar way. You can also order the types of tasks you work on throughout the day - some people are more productive in the morning, so it would be a good idea to do tasks that require more effort in the morning.
 
 #### Objective V: Set up a Timetable
 
 Set limits on how much time you spend working. This motivates discipline during your time period to ensure you complete the work you need to do. This also allows you to separate between work and free time, in order to avoid burnout. This will also allow you to measure your results for the day, whether you achieved what you had planned at the beginning. This will also allow you to predict how many Pomodoros you can reliably complete in a day.
+
+Reinforce a regular routine as much as possible and focus on one Pomodoro at a time. Ensure that you don't go over 30 minutes during your break, but also make sure you are taking a break for at least 5 minutes. During a break, ensure that you completely detach from your work.
