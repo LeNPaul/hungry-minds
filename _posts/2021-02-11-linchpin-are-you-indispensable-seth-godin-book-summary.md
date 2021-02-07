@@ -38,7 +38,7 @@ With the internet, normal people can now own the means of production and are no 
 
 There are no maps or instructions for how to produce art - part of the value of being a linchpin is the ability to navigate the unknown and create the maps or instructions, breaking any previous rules along the way.
 
-#### Connections
+##### Connections
 
 The more connections are you able to make with and between people, the more successful you will be as a linchpin. People value connections and relationships more than anything else, and this is a distinguishing factor between individuals and organizations. Linchpins are leaders that know how to lead, and bring passion to what they do. having people skills amkes you indispensable. Don't follow scripts.
 
