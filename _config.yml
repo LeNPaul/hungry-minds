@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'G-D7B9VQC5ZL'
 disqus: ''
-mailchimp-list: 'https://hungryminds.us7.list-manage.com/subscribe?u=08fe04e6a6ba1be08842091b9&id=01717016fd'
+mailchimp-list: # 'https://hungryminds.us7.list-manage.com/subscribe?u=08fe04e6a6ba1be08842091b9&id=01717016fd'
 include: ["_pages"]
 permalink: /:title/
 
