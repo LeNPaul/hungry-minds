@@ -10,6 +10,8 @@ hidden: true
 comments: false
 ---
 
+The Richest Man in Babylon by George S. Clason is a classic book on personal finance. I first read this book while in the middle of university, and since graduating, the advice given in this book has proven to be valuable and timeless.
+
 #### Seven Cures For a Lean Purse
 
 1. Start thy purse to fattening
