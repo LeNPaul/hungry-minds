@@ -2,7 +2,7 @@
 layout: post
 title:  "Linchpin: Are You Indispensable? by Seth Godin Book Summary"
 categories: [ book summary ]
-tags: [ productivity ]
+tags: [ career ]
 image: assets/images/linchpin-are-you-indispensable-seth-godin-book-summary.png
 description: "Linchpin: Are You Indispensable? by Seth Godin Book Summary"
 featured: true
