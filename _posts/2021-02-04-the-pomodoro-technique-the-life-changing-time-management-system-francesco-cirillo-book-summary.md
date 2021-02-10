@@ -5,8 +5,8 @@ categories: [ book summary ]
 tags: [ productivity ]
 image: assets/images/the-pomodoro-technique-the-life-changing-time-management-system.png
 description: "The Pomodoro Technique: The Life-Changing Time-Management System by Francesco Cirillo Book Summary"
-featured: true
-hidden: true
+featured: false
+hidden: false
 comments: false
 ---
 
