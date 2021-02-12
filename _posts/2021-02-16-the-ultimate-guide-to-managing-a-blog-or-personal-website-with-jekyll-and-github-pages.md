@@ -3,7 +3,7 @@ layout: post
 title:  "The Ultimate Guide to Managing a Blog or Personal Website with Jekyll and GitHub Pages"
 categories: [ tutorial ]
 tags: [ blogging ]
-image: assets/images/the-ultimate-guide-to-managing-a-blog-or-personal-website-with-jekyll-and-gitHub-pages.jpg
+image: assets/images/the-ultimate-guide-to-managing-a-blog-or-personal-website-with-jekyll-and-github-pages.jpg
 description: "The Ultimate Guide to Managing a Blog or Personal Website with Jekyll and GitHub Pages"
 featured: false
 hidden: false
