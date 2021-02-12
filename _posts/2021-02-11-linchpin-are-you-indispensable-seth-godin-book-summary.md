@@ -5,8 +5,8 @@ categories: [ book summary ]
 tags: [ career ]
 image: assets/images/linchpin-are-you-indispensable-seth-godin-book-summary.png
 description: "Linchpin: Are You Indispensable? by Seth Godin Book Summary"
-featured: true
-hidden: true
+featured: false
+hidden: false
 comments: false
 ---
 
