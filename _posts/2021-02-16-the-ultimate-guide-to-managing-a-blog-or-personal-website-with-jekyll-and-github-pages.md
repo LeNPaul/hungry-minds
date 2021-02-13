@@ -50,4 +50,8 @@ Using GitHub Pages to host your Jekyll site is great for starting out, especiall
 
 #### Why You Should Start a Blog or Personal Website
 
-Having an online presence is important, whether or not you are a full-time blogger or software developer. 
+Having an online presence is important, whether or not you are a full-time blogger or software developer. A blog or personal website under your own domain name is something that you completely own, and is not subject to the whims of any social media platform. It can be a place to showcase your work, or it can be a place where people can find more information about who you are and what you offer. It allows you to build your personal brand, which nowadays is more important than ever with rise of the internet.
+
+#### Why You Should Use Jekyll
+
+Jekyll is an open-sourced platform that allows you to completely control the look of your site and how you publish your content. Serving static websites offers performance and security benefits. Since you can use GitHub to host your sites, everything will be backed up and versioned, allowing you to easily roll back to previous versions of your site. Since your posts are markdown text files, your content is portable and is easily managed.
