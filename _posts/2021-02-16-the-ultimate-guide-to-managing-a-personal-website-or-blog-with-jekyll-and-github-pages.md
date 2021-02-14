@@ -12,7 +12,7 @@ comments: false
 
 I first discovered [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/) in my second last year of university. During that time, I was looking to learn how to code in order to pursue a career in software development. I had read that Jekyll and GitHub pages were a good platform to start your personal website or blog on. However, being new to this, I was intimidated and confused by [all of the resources that I came across](https://www.google.com/search?q=jekyll+github+pages).
 
-Several years later, now that I work in the software industry and have even created [a few Jekyll themes](https://github.com/LeNPaul) of my own that are used by many, I realize that the confusion that I had in the beginning was unnecessary. Using Jekyll and GitHub Pages as a platform for starting your personal website or blog is actually very simple.
+Several years later, now that I work in the software industry and have even created [a few Jekyll themes](https://github.com/LeNPaul) of my own, I realize that the confusion that I had in the beginning was unnecessary. Using Jekyll and GitHub Pages as a platform for starting your personal website or blog is actually very simple.
 
 This series will walk you through everything you need to know in order to become a master at Jekyll and GitHub Pages, from starting your personal website or blog to creating your own Jekyll themes.
 
@@ -22,7 +22,7 @@ This series will walk you through everything you need to know in order to become
 
 3. **[How to Create Your Own Jekyll Theme:]()** This guide will walk you through the process of creating your very own Jekyll theme from scratch.
 
-4. **[Releasing a New Jekyll Theme:]()** My own process and journey of releasing a new version of one of my most popular Jekyll themes.
+4. **[Releasing a New Jekyll Theme:]()** My own process and journey of releasing a new version of [Lagrange](https://lenpaul.github.io/Lagrange/), one of my most popular Jekyll themes.
 
 #### What is Jekyll?
 
@@ -30,7 +30,7 @@ This series will walk you through everything you need to know in order to become
 
 ##### Simple
 
-Contrary to the initial introduction that I had with Jekyll, it is very simple to use. Posts are stored in text files that are formatted using [markdown](https://daringfireball.net/projects/markdown/). Once set up, adding new pages or posts is a matter of adding markdown text files to a directory. Jekyll handles the rest with building your site. There are no bloated user interfaces to work with, and your content is portable and completely controlled by you.
+Contrary to the initial introduction that I had with Jekyll, it is very simple to use. Posts are stored in text files that are formatted using [markdown](https://daringfireball.net/projects/markdown/). Once set up, adding new pages or posts is a matter of adding markdown text files to a directory. Jekyll handles the rest with building your site. There are no bloated user interfaces to work with and you have complete control over your content.
 
 ##### Blog-Aware
 
@@ -38,21 +38,19 @@ Jekyll was developed with blogging as the main use case. Typical features of blo
 
 ##### Static Site Generator
 
-[A static site is a site that consists of only text files](https://scotch.io/bar-talk/5-reasons-static-sites-rock). There are no databases that are required for the site to operate. Jekyll will take your text files which contain your blog content, and generate a static site that is served as your personal website or blog.
+[A static site is a site that consists of only text files](https://scotch.io/bar-talk/5-reasons-static-sites-rock#toc-what-are-static-sites). There are no databases that are required for the site to operate. Jekyll will take your text files which contain your blog content, and generate a static site that is served as your personal website or blog.
 
 ##### For Personal, Project, or Organization Sites
 
-Jekyll is suitable for sites that don't require databases. This turns out to be perfect for managing personal websites and blogs, as static sites are simple to set up and maintain, [among other benefits](https://scotch.io/bar-talk/5-reasons-static-sites-rock).
+Jekyll is suitable for sites that don't require databases. This turns out to be perfect for managing personal websites and blogs, as static sites are simple to set up and maintain, [among other benefits](https://scotch.io/bar-talk/5-reasons-static-sites-rock#toc-1-speed).
 
 #### What is GitHub Pages?
 
-[GitHub Pages is powered by Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll), which means GitHub offers the ability to host Jekyll sites. You can put your Jekyll site in a GitHub repository, and GitHub will serve your Jekyll site as a public website. This is offerred for free, and is a great way to get started with your personal website or blog completely free.
-
-Using GitHub Pages to host your Jekyll site is great for starting out, especially if you are not immediately expecting high volumes of traffic to your site. Combined with your own custom domain name, you can get started with your online presence for a very affordable cost.
+[GitHub Pages is powered by Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll), which means GitHub offers the ability to host Jekyll sites. You can put your Jekyll site in a GitHub repository, and GitHub will serve your Jekyll site as a public website. This is offerred for free, and is a great way to get started with your personal website or blog completely free, especially if you are not immediately expecting high volumes of traffic to your site. Combined with your own custom domain name, you can get started with your online presence for a very affordable cost.
 
 #### Why You Should Use Jekyll
 
-Jekyll is an open-sourced platform that allows you to completely control the look of your site and how you publish your content. Serving static websites offers [performance and security benefits](https://scotch.io/bar-talk/5-reasons-static-sites-rock). Since you can use GitHub to host your sites, everything will be backed up and versioned, allowing you to easily roll back to previous versions of your site. Since your posts are markdown text files, your content is portable and is easily managed without having to deal with bloated user interfaces.
+Jekyll is an open-sourced platform that offers you complete control over the look of your site and how you publish your content. Serving static websites offers [performance and security benefits](https://scotch.io/bar-talk/5-reasons-static-sites-rock#toc-1-speed). Since your posts are markdown text files, your content is portable and easily managed without having to deal with bloated user interfaces. Combined with using GitHub to host your sites, your entire site will be backed up and versioned, allowing you to easily roll back to previous versions of your site. 
 
 #### Why You Should Start a Personal Website or Blog
 
