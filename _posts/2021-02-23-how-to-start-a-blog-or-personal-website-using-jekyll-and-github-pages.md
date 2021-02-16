@@ -22,6 +22,14 @@ In order to get your Jekyll site hosted on GitHub Pages, you will need to create
 
 ![GitHub Home Page]({{ site.baseurl }}{{ "/assets/images/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages-1.png" }})
 
+#### Install GitHub Desktop
+
+[GitHub Desktop](https://desktop.github.com/) allows you to interface with your GitHub repositories without having to use the command line. We will be using GitHub Desktop to import our Jekyll theme and publish blog posts and changes to your site.
+
+Once you have [downloaded and installed GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-github-desktop), navigate to the "Preferences" screen and ensure that you are logged into your GitHub account.
+
+![GitHub Adding New Repository]({{ site.baseurl }}{{ "/assets/images/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages-7.png" }})
+
 #### Create a Repository on GitHub
 
 Once you are logged into your GitHub account, you can create the repository that will contain your Jekyll site. You can do that by navigating to [this link](https://github.com/new) or clicking on the dropdown menu at the top right of any page when you are logged into GitHub and clicking on "New Repository".
@@ -31,6 +39,18 @@ Once you are logged into your GitHub account, you can create the repository that
 You will need to name your repository `<username>.github.io`, where `<username>` is your GitHub username. For example, my GitHub username is `lenpaul`, and I would name the repository `lenpaul.github.io`. Ensure that your repository is public. Once created, your repository should be empty.
 
 ![GitHub Adding New Repository]({{ site.baseurl }}{{ "/assets/images/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages-3.png" }})
+
+The next step is to set up your repository on your local computer. If your repository is empty, then you can do that by click on "Set up in Desktop" while in your repository.
+
+![GitHub Adding New Repository]({{ site.baseurl }}{{ "/assets/images/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages-9.png" }})
+
+If you have any files in your repository, then you can set up your repository on your local computer by clicking on the green "Code" button and clicking "Open with GitHub Desktop".
+
+![GitHub Adding New Repository]({{ site.baseurl }}{{ "/assets/images/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages-10.png" }})
+
+Choose any directory that you would like to import your repository to.
+
+![GitHub Adding New Repository]({{ site.baseurl }}{{ "/assets/images/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages-11.png" }})
 
 #### Find a Jekyll Theme
 
@@ -49,3 +69,29 @@ For example, [Michael Rose of Made Mistakes](https://mademistakes.com/) has rele
 The Jekyll theme that you choose should have a GitHub repository that you can find and download. For this guide, you can find the GitHub repository for Lagrange [here](https://github.com/LeNPaul/Lagrange). Once you have found the GitHub repository, you will want to download a ZIP of the repository by clicking on the green "Code" button at the top right of the repository and clicking on "Download ZIP".
 
 ![GitHub Adding New Repository]({{ site.baseurl }}{{ "/assets/images/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages-6.png" }})
+
+Once you have downloaded your repository ZIP, you can go ahead and unzip that file to get your Jekyll site files. They should look something like the following.
+
+![GitHub Adding New Repository]({{ site.baseurl }}{{ "/assets/images/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages-8.png" }})
+
+Now, you want to copy all of these files, and paste them to the directory that you had used to set up the repository that you had set up on your local computer with GitHub Desktop. If you did this correctly, when you view your repository on GitHub Deskop, it should look something like the following.
+
+![GitHub Adding New Repository]({{ site.baseurl }}{{ "/assets/images/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages-12.png" }})
+
+In the bottom left, add a summary of your commit and click the "Commit to master" button. You may also need to click on "Publish Branch" after.
+
+![GitHub Adding New Repository]({{ site.baseurl }}{{ "/assets/images/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages-13.png" }})
+
+Once that has been done, your repository on GitHub should no longer be empty and should have the files that we had imported.
+
+![GitHub Adding New Repository]({{ site.baseurl }}{{ "/assets/images/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages-14.png" }})
+
+#### Enable GitHub Pages
+
+Now that you have your Jekyll theme imported to your repository, you just need to enable GitHub Pages to get your site running. Navigate to the settings page for your repository, and scroll down to the "GitHub Pages", section. Under "Source", select the "master" branch, ensure that "/(root)" is selected, and click "Save".
+
+![GitHub Adding New Repository]({{ site.baseurl }}{{ "/assets/images/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages-15.png" }})
+
+Refresh the page, and you should see that your site is ready to be published at a URL. You may need to a wait a few minutses before your site is available, but if you click on that URL you will see your site in action.
+
+![GitHub Adding New Repository]({{ site.baseurl }}{{ "/assets/images/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages-16.png" }})
