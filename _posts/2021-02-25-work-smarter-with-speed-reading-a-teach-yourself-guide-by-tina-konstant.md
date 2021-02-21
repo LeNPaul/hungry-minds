@@ -10,48 +10,58 @@ hidden: true
 comments: false
 ---
 
-*Work Smarter with Speed Reading: A Teach Yourself Guide* by Tina Konstant was a book I came across many years ago at the library. This was during the time that I first came across the idea of speed reading, during which I borrowed dozens of books on speed reading.
+*Work Smarter with Speed Reading: A Teach Yourself Guide* by Tina Konstant was a book I came across many years ago at the library. This was when I first came across the idea of speed reading, during which I borrowed dozens of books on speed reading.
 
 Generally, many speed reading books offer the same advice. I found this book to be the most complete, and every other speed reading resource I've come across since offers the same advice. Since reading this book a long time ago, I've found myself applying many of the tips I've learned. A summary of the book can be found below.
 
 ### Summary
 
-Speed reading is a skill that you develop. It's not something that you need to use all the time, as you should use different techniques for different types of material.
+Speed reading is a skill that you develop and requires practice.
 
-#### Speed Reading
+#### Techniques for Speed Reading
 
-1. Stop vocalizing words in your head as you read them.
+1. Stop vocalizing words in your mind as you read them.
 
-2. Use a pointer or guide when reading.
+2. Use a pointer to guide your eyes as you are reading.
 
-3. Read the first sentance of a paragraph, skim the rest of the paragraph (get a general impression of what it is about), and read the last sentance of the paragraph.
+3. Utilize your peripheral vision to read multiple words on a line or even multiple lines at the same time.
 
 #### The Five-Step System
 
-The process will allow you to highlight and eliminate what you need to read and ignore. It's a way to quickly process a book and get a high-level understanding of what the book is about before investing more time reading certain sections of a book.
-
 ##### 1. Prepare
 
-How do you intend to use the new information that you learn? This helps you to focus while you are reading. Ensure that you have a purpose for when you are reading.
+How do you intend to use the new information that you learn from reading? Ensure that you have a clear purpose for what you are reading, which will help you focus while reading.
 
-##### 2. Structure
+##### 2. Preview
 
-Read the front and back covers, the table of contens, the index, and scan the bibliography. Determine the structure of the book, such as the chapter headings, sub-headings, diagrams. Determine which parts of the book you don't need, and highlight the parts that you think you do need.
+Acquaint yourself with the structure of your book by reading the front and back covers, the table of contents, scanning the index, bibiography, chapter headings, subheadings, and any diagrams or graphs. Pay attention to which parts of the book you do not need, and highlight the parts you think will be important.
 
-##### 3. Language
+##### 3. Passive Reading
 
-Quickly scan each page and look for words that stand out - any technical language, jargon, or acronyms. Recognize any recurring themes and concepts, and ensure that you understand their meaning.
+Quickly scan each page looking for words that stand out - any technical language, jargon, or acronyms - and ensure you are familiar with the meaning of the language. Recognize any recurring themes and concepts, and ensure that you understand their meaning.
 
-##### 4. Content
+##### 4. Active Reading
 
-Read the first paragraph of every section, and the first sentance of every paragraph (if the paragraph is long then read the last paragraph as well). Highlight, take notes, and mind-map what you read.
+Read the first paragraph of each section, and the first sentence of every paragraph (if the paragraph is long, then read the last sentence as well). During this time, highlight any important parts and take any notes needed, creating a mind map if possible.
 
 ##### 5. Selective Reading
 
-Select intelligently what you need or want to read.
+Once you have a good framework of the content of the book, selectively read only what you need to read.
 
-#### Optmize Your Reading
+#### Optimize Your Reading
 
-No matter how fast you read, it is important to remember what you read and to apploy that knowledge. Ensure that you have a purpose when you read and use the new information. In addition to traditional note taking strategies, try mind mapping what you read.
+##### Vocabulary
 
-Take frequent breaks when reading to ensure peak concentration. Ensure you are comfortable, are not straining your eyes, and there is nothing distracting you.
+Improving your vocabulary will allow you to read faster and improve comprehension.
+
+##### Concentration
+
+Take frequent breaks when reading to ensure peak concentration.
+
+##### Memory
+
+##### Eye Strain
+
+##### Distractions
+
+#### Strategies for Reading
