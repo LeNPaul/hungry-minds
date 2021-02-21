@@ -16,6 +16,28 @@ This guide will walk you through the process from beginning to end of creating y
 
 For an introduction to Jekyll and GitHub Pages, please check out [the previous post in this series]({% post_url 2021-02-16-the-ultimate-guide-to-managing-a-personal-website-or-blog-with-jekyll-and-github-pages %}).
 
+### Table of Contents
+
+1. [Create a GitHub account](#create-a-github-account)
+
+2. [Install GitHub Desktop](#install-github-desktop)
+
+3. [Create a Repository on GitHub](#create-a-repository-on-github)
+
+4. [Find a Jekyll Theme](#find-a-jekyll-theme)
+
+5. [Import Your Jekyll Theme](#import-your-jekyll-theme)
+
+6. [Enable GitHub Pages](#enable-github-pages)
+
+7. [Personalize Your Site](#personalize-your-site)
+
+8. [Publish Blog Posts](#publish-blog-posts)
+
+9. [Conclusion](#conclusions)
+
+10. [FAQ](#faq)
+
 #### Create a GitHub account
 
 In order to get your Jekyll site hosted on GitHub Pages, you will need to create a GitHub account if you don't have one already. Navigate to [GitHub](https://github.com/) and click on "Sign Up" at the top right to create your account. [The free pricing plan](https://github.com/pricing) is more than enough for our purposes.
