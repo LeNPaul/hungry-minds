@@ -28,6 +28,8 @@ Speed reading is a skill that you develop and requires practice.
 
 #### The Five-Step System
 
+This process will allow you to highlight what you need to read and eliminate what you need to ignore. It's a way to quickly process a book and get a high-level understanding of what the book is about befor einvesting more time reading certain sections of the book.
+
 ##### 1. Prepare
 
 How do you intend to use the new information that you learn from reading? Ensure that you have a clear purpose for what you are reading, which will help you focus while reading.
@@ -56,12 +58,20 @@ Improving your vocabulary will allow you to read faster and improve comprehensio
 
 ##### Concentration
 
-Take frequent breaks when reading to ensure peak concentration.
+Increased concentration increases reading speed. Take frequent breaks when reading to ensure peak concentration.
 
 ##### Memory
 
+Reading is a waste of time unless you remember what you read - utilize memory techniques to optimize your reading. Considering creating mind maps of what you read.
+
 ##### Eye Strain
+
+Strained eyes reduces reading speed - reduce eye strain to increase reading speed.
 
 ##### Distractions
 
+Reading while distracted decreases your reading speed. Reduce distractions such as stress and external noise to increase reading speed.
+
 #### Strategies for Reading
+
+Different materials require different strategies for reading.
