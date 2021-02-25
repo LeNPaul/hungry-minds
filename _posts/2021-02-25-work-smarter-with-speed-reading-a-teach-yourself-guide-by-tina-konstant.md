@@ -16,7 +16,7 @@ Generally, many speed reading books offer the same advice. I found this book to 
 
 ### Summary
 
-Speed reading is a skill that you develop and requires practice.
+Speed reading is a skill that you develop and requires practice. Not only does it include techniques for improving your rate of reading, but it includes strategies for approaching different types of text, which change depending on the material and whether or not speed reading is appropriate for that context. It's not something that you need to use all the time, as you should use different techniques for different types of material. There is a physical and a mental aspect of speed reading.
 
 #### Techniques for Speed Reading
 
@@ -26,9 +26,11 @@ Speed reading is a skill that you develop and requires practice.
 
 3. Utilize your peripheral vision to read multiple words on a line or even multiple lines at the same time.
 
+4. Read the first sentence of a paragraph, skim the rest of the paragraph to get a general impression of what the paragraph is about, and read the last sentence of the paragraph if it is long. This is good for material you are familiar with.
+
 #### The Five-Step System
 
-This process will allow you to highlight what you need to read and eliminate what you need to ignore. It's a way to quickly process a book and get a high-level understanding of what the book is about befor einvesting more time reading certain sections of the book.
+This process will allow you to highlight what you need to read and eliminate what you need to ignore. It's a way to quickly process a book and get a high-level understanding of what the book is about before investing more time reading certain sections of the book. Essentially, you are building a framework for the book and filling in that framework as you read the important parts.
 
 ##### 1. Prepare
 
@@ -58,20 +60,24 @@ Improving your vocabulary will allow you to read faster and improve comprehensio
 
 ##### Concentration
 
-Increased concentration increases reading speed. Take frequent breaks when reading to ensure peak concentration.
+Increased concentration increases reading speed. Take frequent breaks when reading to ensure peak concentration. Increase interest, motiviation, reduce stress, reward yourself, organize your space and reduce clutter, stay healthy, meditate and do breathing exercises, and take frequent breaks.
 
 ##### Memory
 
-Reading is a waste of time unless you remember what you read - utilize memory techniques to optimize your reading. Considering creating mind maps of what you read.
+No matter how fast you read, it is important to remember what you read and to apply that knowledge. Ensure that you have a purpose when you read and a plan to use the new information. Focus on developing interest in what you are reading. Pay attention to what you are reading. In addition to traditional note taking strategies - taking notes after you read - and memory techniques, try organizing what you learn into a mind map in order to build associations. Highlight key words and concepts while reading. Regularly revise your notes and what you learned.
 
 ##### Eye Strain
 
-Strained eyes reduces reading speed - reduce eye strain to increase reading speed.
+Strained eyes reduces reading speed - reduce eye strain to increase reading speed. Have good lighting, and ensure you have a comfortable desk and chair. Take care of your eyes for reading in order to reduce strain.
 
 ##### Distractions
 
-Reading while distracted decreases your reading speed. Reduce distractions such as stress and external noise to increase reading speed.
+Reading while distracted decreases your reading speed. Reduce distractions such as stress, hunger, tiredness, and external noise to increase reading speed. Ensure you are comfortable, are not straining your eyes, and there is nothing distracting you.
 
 #### Strategies for Reading
 
 Different materials require different strategies for reading.
+
+##### Skimming and Scanning
+
+Scanning is looking for specific information. Skimming is getting the general idea of what the text is about - who, what, where, why, when, and how. The goal is to get the message that the author is trying to convey, which does not depend on individual words.
