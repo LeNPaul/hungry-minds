@@ -40,25 +40,39 @@ Acquaint yourself with the structure of what you are reading by reading the book
 
 ##### 3. Passive Reading
 
-
+Quickly scan what you are reading looking for words that stand out - any technical language, jardon, acronyms, or anything that is in bold or italics - and ensure you are familiar with the meaning of the language. Recognize any reoccuring themes and concepts, and ensure that you understand their meaning.
 
 ##### 4. Active Reading
 
-
+Read the first paragraph of each section, and the first sentence of every paragraph. If the paragraph is long, then read the last sentence as well. During this time, highlight any important parts and take any notes needed, creating a mind map if possible.
 
 ##### 5. Selective Reading
 
-
+Once you have a good framework for what you are reading, selectively read the parts that you need in whatever order makes the most sense to you. You do not need to read in chronological order from beginning to end, or even finish the reading material if it does not provide you with value.
 
 #### Optimize Your Reading
 
 ##### Vocabulary
 
-
+Before reading, try to find and understand any unknown terminology that appears throughout the text (see step 3. Passive Reading). The larger your vocabulary, the greater your comprehension will be and the faster you will be able to read.
 
 ##### Concentration
 
+Avoid multitasking and reduce distractions (see Distractions) to improve your reading speed. Take frequent breaks when reading to ensure peak concentration.
 
+
+Increased concentration increases reading speed. Take frequent breaks when reading to ensure peak concentration, where you disconnect from reading - such as going on a walk. Increase interest, motiviation, reduce stress, reward yourself, organize your space and reduce clutter, stay healthy, meditate and do breathing exercises, be present, and take frequent breaks.
+
+- Pay attention
+- Without concentration, no Memory
+- Be interested, motivated, and have a goal (should go under distraction)
+- Reduce stress to improve memory
+- Reward Yourself
+
+- Eat healthy, get enough rest
+- Breathing exercises and meditation
+- Be present in the moment, practice deliberate action
+-
 
 ##### Memory
 
@@ -70,7 +84,7 @@ Acquaint yourself with the structure of what you are reading by reading the book
 
 ##### Distractions
 
-
+- Reduce clutter (should go under distraction)
 
 #### Strategies for Reading
 
