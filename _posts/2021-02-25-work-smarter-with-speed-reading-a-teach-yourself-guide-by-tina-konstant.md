@@ -14,7 +14,7 @@ I first came across speed reading many years ago while browsing for books at the
 
 ### Summary
 
-
+Speed reading is a skill that you develop and requires practice. This book outlines techniques for improving your rate of reading, as well as strategies for optimizing your reading and how to approach different types of text.
 
 #### Techniques for Speed Reading
 
@@ -28,7 +28,7 @@ I first came across speed reading many years ago while browsing for books at the
 
 #### The Five-Step System
 
-
+The purpose of this system is to allow you to highlight what you need to read and eliminate what you need to ignore. It's a way to quickly process a piece of text and get a high-level understanding or framework of what it is about before investing more time reading certain sections and filling in this framework as you read the important parts.
 
 ##### 1. Prepare
 
@@ -52,46 +52,40 @@ Once you have a good framework for what you are reading, selectively read the pa
 
 #### Optimize Your Reading
 
+##### Interest and Motivation
+
+When reading, you should strive to develop interest and motivation for what you are reading. Consider setting up rewards for yourself if needed. Ensure that you have a goal and purpose for reading, as well as a plan to utilize what you learn from reading, which will also improve your memory of what you read (see Memory). Without all of this, reading fast would be useless.
+
+##### Health and Fitness
+
+Ensure that you are eating healthy, getting enough rest, exercising, and are managing your stress. All of this contributes to your ability to concentrate and remember what you read. Considering doing breathing exercises and meditating.
+
 ##### Vocabulary
 
-Before reading, try to find and understand any unknown terminology that appears throughout the text (see step 3. Passive Reading). The larger your vocabulary, the greater your comprehension will be and the faster you will be able to read.
+Before reading, try to find and understand any unknown terminology that appears throughout the text (see step 3. Passive Reading). The larger your vocabulary, the greater your comprehension will be, and the faster you will be able to read.
 
 ##### Concentration
 
-Avoid multitasking and reduce distractions (see Distractions) to improve your reading speed. Take frequent breaks when reading to ensure peak concentration.
-
-
-Increased concentration increases reading speed. Take frequent breaks when reading to ensure peak concentration, where you disconnect from reading - such as going on a walk. Increase interest, motiviation, reduce stress, reward yourself, organize your space and reduce clutter, stay healthy, meditate and do breathing exercises, be present, and take frequent breaks.
-
-- Pay attention
-- Without concentration, no Memory
-- Be interested, motivated, and have a goal (should go under distraction)
-- Reduce stress to improve memory
-- Reward Yourself
-
-- Eat healthy, get enough rest
-- Breathing exercises and meditation
-- Be present in the moment, practice deliberate action
--
+Take frequent breaks when reading to ensure peak concentration. Avoid multitasking and reduce distractions (see Distractions) to improve your reading speed. Other factors such as how stressed you are, how present you are in the moment, how deliberate you are with your action, as well as well as how rested you are all affect your ability to concentrate and your reading speed. Building focus is crucial. Finally, paying attention, understanding what you are reading, being focused and concentrated increases your memory of what you read.
 
 ##### Memory
 
-
+The more connections you make between the new information that you learn and what you already know, the stronger your memory will be. In addition to traditional memory techniques and note taking strategies - such as highlighting keywords or passages, writing your comments in the margins, and taking notes on key concepts - consider organizing what you learn into a mind map to build futher associations. When reading, try and involve as many of your senses as possible in imagining what you are reading. Regularly revise your notes and what you learned to enforce memory. Finally, prioritize memory over reading as fast as possible.
 
 ##### Eye Strain
 
-
+Taking care of your eyes and reducing eye strain will increase reading speed. Ensure you have good lighting in your environment, and that you have a comfortable desk and chair. During your breaks, try and look at something far away, preferably outside. Avoid reading for long periods of time on monitors or screens if possible. If possible, increasing the font size of your reading material will help reduce eye strain.
 
 ##### Distractions
 
-- Reduce clutter (should go under distraction)
+Organize and reduce the clutter in your immediate surroundings. Reduce distractions such as stress, hunger, dehydration, tiredness, external noise, and any distractions from people. Practice meditation and breathing exercises to reduce internal distractions.
 
 #### Strategies for Reading
 
+##### Approaching Different Types of Reading Material
 
+What is the purpose of reading what you are reading? This motivates the approach you will take, as you may not want to speed read all the time. For example, you can easily apply the Five Step System and speed read non-fiction books on subjects you are familar with, whereas you may not want to take this same approach for reading fiction, poetry, or instructions manuals.
 
-##### Skimming and Scanning
+##### Skimming vs. Scanning
 
-
-
-##### Notes
+Scanning is when you are looking for specific information within a text. Skimming is getting the general idea of what the text is about - who, what, when, where, why, and how. The goal is to get the message that the author is trying to convey, which does not depend on individual words. Speed reading is really just glorified skimming, allowing you to efficiently capture the information in a text.
