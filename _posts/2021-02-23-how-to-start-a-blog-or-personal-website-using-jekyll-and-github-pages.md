@@ -5,8 +5,8 @@ categories: [ tutorial ]
 tags: [ blogging ]
 image: assets/images/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages.jpg
 description: "How to Start a Blog or Personal Website Using Jekyll and GitHub Pages"
-featured: true
-hidden: true
+featured: false
+hidden: false
 comments: false
 ---
 
@@ -150,7 +150,7 @@ After a few minutes, your blog post should show up on your site.
 
 #### Conclusion
 
-Congratulations, you have started a blog or personal website using Jekyll and GitHub Pages! For now, we are sticking to [updating some configurations](#personalize-your-site) for your Jekyll site and [publishing blog posts](#publish-blog-posts). Check out the article on *[How to Customize a Jekyll Theme]()* for more details on how to fully customize your Jekyll site, such as using a custom domain name, and changing the look of your site.
+Congratulations, you have started a blog or personal website using Jekyll and GitHub Pages! For now, we are sticking to [updating some configurations](#personalize-your-site) for your Jekyll site and [publishing blog posts](#publish-blog-posts). Check out the article on *[How to Customize a Jekyll Theme]({% post_url 2021-03-02-how-to-customize-a-jekyll-theme %})* for more details on how to fully customize your Jekyll site, such as using a custom domain name, and changing the look of your site.
 
 #### FAQ
 
