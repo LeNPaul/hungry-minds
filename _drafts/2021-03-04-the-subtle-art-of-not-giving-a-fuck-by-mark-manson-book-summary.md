@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title:  "The Subtle Art of Not Giving a F*ck by Mark Manson Book Summary"
