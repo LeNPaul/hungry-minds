@@ -11,3 +11,21 @@ comments: false
 ---
 
 ### Summary
+
+#### Don't Try
+
+#### Happiness is a Problem
+
+#### You Are Not Special
+
+#### The Value of Suffering
+
+#### You Are Always Choosing
+
+#### You're Wrong About Everything (But So Am I)
+
+#### Failure is the Way Forward
+
+#### The Importance of Saying No
+
+#### ... And Then You Die
