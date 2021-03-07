@@ -10,6 +10,8 @@ hidden: true
 comments: false
 ---
 
+*The Subtle Art of Not Giving a F*ck* by Mark Manson was first published in 2016, and since then, has become incredibly popular. I first came across this book at the local book store, and recall how the cover immediately caught my attention - both the colour, typography, and the actual title of the book. Since then, I have seen this book come up in many places, and eventually read it myself. Although I don't think this book offers anything new or groundbreaking, it is a great summary of much of the self-improvement advice that you will come across in this genre packaged in a single book.
+
 ### Summary
 
 #### Don't Try
