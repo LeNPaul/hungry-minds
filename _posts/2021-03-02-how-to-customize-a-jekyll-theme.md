@@ -24,4 +24,6 @@ For a guide on how to start a blog or personal website using Jekyll and GitHub p
 
 By default, when you set up a Jekyll site hosted on GitHub Pages, GitHub will provide your site with a unique URL. If you name your repository `<username>.github.io`, then your URL will be `https://<username>.github.io`. If you name your repository anything else, then your URL will be `https://<username>.github.io/<repository name>`.
 
-GitHub Pages allows you to bring your own domain name and host your Jekyll site through that domain name.
+GitHub Pages allows you to bring your own domain name and host your Jekyll site through that domain name. The way that this is achieved is dependent on what your domain name provider is. The following is a list of tutorials for using a custom domain name from popular domain name providers:
+
+1. [Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages/)
