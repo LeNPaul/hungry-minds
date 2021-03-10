@@ -10,7 +10,7 @@ hidden: true
 comments: false
 ---
 
-*The Subtle Art of Not Giving a F*ck* by Mark Manson was first published in 2016, and since then, has become incredibly popular. I first came across this book at the local book store, and recall how the cover immediately caught my attention - both the colour, typography, and the actual title of the book. Since then, I have seen this book come up in many places, and eventually read it myself. Although I don't think this book offers anything new or groundbreaking, it is a great summary of much of the self-improvement advice that you will come across in this genre packaged in a single book.
+*The Subtle Art of Not Giving a F*ck* by Mark Manson was first published in 2016, and since then has become incredibly popular. I first came across this book at the local book store, and recall how the cover immediately caught my attention - both the colour, typography, and the actual title of the book. I eventually read the book after it was recommended to me a few times. Although I don't think this book offers anything new or groundbreaking, it is a great summary of much of the self-improvement advice that you will come across in this genre packaged in a single book.
 
 ### Summary
 
@@ -30,7 +30,7 @@ The more you try to do something, the less likely you are to succeed. Conversely
 
 > This is the most simple and basic component of life: our struggles determine our successes. Our problems birth our happiness, along with slightly better, slightly upgraded problems.
 
-Suffering is an inherent part of life. Happiness comes from solving problems. This does not mean that you get rid of problems or that they go away, but rather you move on to new problems. Don't deny your problems or have a victim mentality. Instead, choose the struggle and problems you are willing to stick through - the joy is in the climb itself.
+Suffering is an inherent part of life. Happiness comes from solving problems. This does not mean that you get rid of problems or that they go away, but rather you move on to better problems. Don't deny your problems or have a victim mentality. Instead, choose the struggle and problems you are willing to stick through - the joy is in the climb itself.
 
 #### You Are Not Special
 
@@ -46,17 +46,17 @@ Our suffering comes as a result of what our standards or values are, and whether
 
 3. Our personal values, and why we choose them.
 
-Examples of bad values are chasing pleasure, material success, and always being right. If we have bad values, then we will always suffer. Good values are reality based, socially constructive, within  your control, and are based on internal factors.
+Examples of bad values are chasing pleasure, material success, and always being right. If we have bad values, then we will always suffer. Good values are reality based, socially constructive, within your control, and are based on internal factors.
 
 However, always staying positive is also a bad value, because it denies us problems and prevents us from facing them and solving them. Some of the greatest achievements in life require some kind of suffering to achieve them. Self-improvement is really about choosing better values to struggle for.
 
 #### You Are Always Choosing
 
-We feel the most empowered when we are choosing our problems. We are always choosing our problems, even if we don't think we are. The best approach is to choose to take full responsibility for everything in your life, including your problems. This will give us power in our lives. If we choose not to, then we are choosing to be the victim, and passing off our responsibility to others.
+We are always choosing our problems, even if we don't think we are. However, we feel the most empowered when we are choosing our problems.  The best approach is to choose to take full responsibility for everything in your life, including your problems. This will give you power in your life. If we choose not to, then we are choosing to be the victim, and passing off our responsibility to others.
 
 #### You're Wrong About Everything (But So Am I)
 
-Our brains are not perfect, and chances are, all of our beliefs are wrong - only some are less wrong than others. Growth is therefore an iterative process, gradually going from wrong to slightly better. Certainty is the enemy of growth, because people become entitled and do not want to challenge what they think or change. Situations where you are wrong or doubtful bring opportunity for growth.
+Our brains are not perfect, and chances are, all of our beliefs are wrong - only some are less wrong than others. Growth is therefore an iterative process, gradually going from wrong to slightly better. Certainty is the enemy of growth, because when we are certain we become entitled and do not want to challenge what we think or to change. Situations where you are wrong or doubtful bring opportunity for growth.
 
 > The more something threatens your identity, the more you will avoid it
 
