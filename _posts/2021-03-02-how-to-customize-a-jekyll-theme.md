@@ -5,8 +5,8 @@ categories: [ tutorial ]
 tags: [ blogging ]
 image: assets/images/how-to-customize-a-jekyll-theme.jpg
 description: "How to Customize a Jekyll Theme"
-featured: true
-hidden: true
+featured: false
+hidden: false
 comments: false
 ---
 
