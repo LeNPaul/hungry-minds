@@ -2,7 +2,7 @@
 layout: post
 title:  "The $100 Startup by Chris Guillebeau Book Summary"
 categories: [ book summary ]
-tags: [ personal finance ]
+tags: [ career ]
 image: assets/images/100-startup-chris-guillebeau.png
 description: "The $100 Startup by Chris Guillebeau Book Summary"
 featured: true

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Subtle Art of Not Giving a F*ck by Mark Manson Book Summary"
 categories: [ book summary ]
-tags: [ personal finance ]
+tags: [ personal development ]
 image: assets/images/the-subtle-art-of-not-giving-a-fuck-by-mark-manson-book-summary.png
 description: "The Subtle Art of Not Giving a F*ck by Mark Manson Book Summary"
 featured: false
