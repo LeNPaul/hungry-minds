@@ -26,6 +26,8 @@ Judgement is assigning a negative or positive value to something.
 
 #### Don't Try Too Hard
 
+
+
 #### Trust Yourself
 
 #### Programming Yourself
