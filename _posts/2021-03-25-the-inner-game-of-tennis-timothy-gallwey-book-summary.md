@@ -10,7 +10,7 @@ hidden: true
 comments: false
 ---
 
-I first heard about *The Inner Game of Tennis* by Timothy Gallwey many years ago on a guitar forum. It was recommended because the principles in this book apply not only to tennis, but to many other activities, including playing the guitar. I eventually read this book when I was in university, and indeed, the concepts in this book have since had a big influence on how I perform many activities such as weightlifting and playing the guitar.
+I first heard about *The Inner Game of Tennis* by Timothy Gallwey many years ago on a guitar forum. It was recommended because the principles in this book apply not only to tennis, but to many other activities, including playing the guitar. I eventually read this book when I was in university, and indeed, the concepts in this book have since had a big influence on how I perform many activities, such as weightlifting and playing the guitar.
 
 ### Summary
 
@@ -24,7 +24,7 @@ Every game is composed of two parts: an outer game, and an inner game. The outer
 
 Self 1 is the part of you that tells you what to do. Self 2 is the part that does what you tell it to do. Self 1 often judges and criticizes self 2. Although self 2 is very competent, self 1 does not trust self 2, and this causes self 2 to make mistakes. This results in a feedback loop that negatively affects the performance of self 2.
 
-#### Relationship Between Self 1 and Self 2
+#### The Relationship Between Self 1 and Self 2
 
 The relationship between self 1 and self 2 determines how effective someone is. The less self 1 interferes with self 2, the more effective someone is. The following are strategies for preventing self 1 from interfering with self 2.
 
@@ -42,7 +42,7 @@ Judgment is assigning a negative or positive value to something. If you judge so
 
 ##### Let it Happen
 
-Focus on seeing things as they are without judgment and labelling. Remove your ego from the situation. Learn to develop trust between self 1 and self 2, and letting things be as they are. This is analogous with a child learning how to walk with their parents; there is no judgment or criticism or identification of what should happen with any falls, just letting it be as the child learns.
+Focus on seeing things as they are without judgment, labelling, or trying to control. Remove your ego from the situation. Learn to develop trust between self 1 and self 2, and letting things be as they are. This is analogous with a child learning how to walk with their parents; there is no judgment or criticism or identification of any falls, just letting it be as the child learns.
 
 #### Programming Yourself
 
@@ -64,6 +64,12 @@ The following are techniques for programming yourself:
 
 Concentration is focusing one's attention. This stills the mind and keeps it in the present. This is a skill that you learn that requires practice. The practice of meditation helps with concentration and remaining calm, which are both important tools. This allows you to see the true nature of what is happening and respond appropriately.
 
+#### Unfreakability: The Art of Quieting the Mind
+
+> There are only two possible approaches to dealing with upsetting circumstances in the present. One is to change the circumstance; the other is to change the mind which is experiencing the upset.
+
+Learn to separate an event from your reaction to the event. Concentrate on your breathing, and observe your thoughts without judging. This is not the same as positive thinking, as you are not acknowledging the negative or attempting to gain peace where it does not exist. Instead, you focus on what you can control, which are your thoughts, and seeing things as they are.
+
 #### The Meaning of Winning
 
 > Winning is overcoming obstacles to reach a goal, but the value in winning is only as great as the value of the goal reached. Reaching the goal itself may not be as valuable as the experience that can come in making a supreme effort to overcome the obstacles involved. The process can be more rewarding than the victory itself.
@@ -72,6 +78,4 @@ A game is an interaction between people involving an ulterior motive - a trial o
 
 Competitiveness (i.e. proving oneself) is often based on insecurity and self-doubt. This can cause the worst in a person to come out, and interference from self 1. Instead, winning should be about realizing the true limits of your capabilities using courage and concentration to overcome obstacles and explore latent capabilities. This results in self-knowledge.
 
-In this way, true competition is identical to true co-operation, where both sides challenge each other with obstacles to achieve their full potential, and no one is actually defeated. You hope for a challenge that allows you to work on your weaknesses. Being defeated or defeating someone is good.
-
-> The fool is a fool because he doesn't know how to learn from his experience; the wise man is wise because he does. Therefore, the wise man will learn more from the conversation than the fool.
+In this way, true competition is identical to true co-operation, where both sides challenge each other with obstacles to achieve their full potential, and no one is actually defeated. You hope for a challenge that allows you to work on your weaknesses. Being defeated or defeating someone helps you achieve this.
