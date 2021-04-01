@@ -68,7 +68,7 @@ Concentration is focusing one's attention. This stills the mind and keeps it in 
 
 > There are only two possible approaches to dealing with upsetting circumstances in the present. One is to change the circumstance; the other is to change the mind which is experiencing the upset.
 
-Learn to separate an event from your reaction to the event. Concentrate on your breathing, and observe your thoughts without judging. This is not the same as positive thinking, as you are not acknowledging the negative or attempting to gain peace where it does not exist. Instead, you focus on what you can control, which are your thoughts, and seeing things as they are.
+Learn to separate an event from your reaction to the event. Concentrate on your breathing, and observe your thoughts without judgment. This is not the same as positive thinking, as you are not acknowledging the negative or attempting to gain peace where it does not exist. Instead, you focus on what you can control, which are your thoughts, and seeing things as they are.
 
 #### The Meaning of Winning
 
@@ -76,6 +76,6 @@ Learn to separate an event from your reaction to the event. Concentrate on your 
 
 A game is an interaction between people involving an ulterior motive - a trial of strength or wits played within a system defined by rules. Most people's motives are to be good and achieve excellence. However, this leads to judgment, especially when people begin to question their worth based on how they compare to others.
 
-Competitiveness (i.e. proving oneself) is often based on insecurity and self-doubt. This can cause the worst in a person to come out, and interference from self 1. Instead, winning should be about realizing the true limits of your capabilities using courage and concentration to overcome obstacles and explore latent capabilities. This results in self-knowledge.
+Competitiveness (i.e. proving oneself) is often based on insecurity and self-doubt. This can cause the worst in a person to come out, and interference from self 1. Instead, winning should be about realizing the true limits of your capabilities using courage and concentration to overcome obstacles and explore latent capabilities. You also learn a lot from teaching others. This results in self-knowledge.
 
 In this way, true competition is identical to true co-operation, where both sides challenge each other with obstacles to achieve their full potential, and no one is actually defeated. You hope for a challenge that allows you to work on your weaknesses. Being defeated or defeating someone helps you achieve this.
