@@ -24,6 +24,8 @@ For a guide on how to start a blog or personal website using Jekyll and GitHub p
 
 3. [Using Google Fonts](#using-google-fonts)
 
+4. [Changing Colours](#changing-colours)
+
 #### Using a Custom Domain Name
 
 By default, when you set up a Jekyll site hosted on GitHub Pages, GitHub will provide your site with a unique URL. If you name your repository `<username>.github.io`, then your URL will be `https://<username>.github.io`. If you name your repository anything else, then your URL will be `https://<username>.github.io/<repository name>`.
@@ -38,7 +40,7 @@ GitHub Pages allows you to bring your own domain name and host your Jekyll site 
 
 #### Changing Fonts
 
-Most Jekyll themes do not directly provide a means to change fonts and colours. However, because we have direct access to the CSS files, we are able to change many style attributes, such as font and colours.
+Most Jekyll themes do not directly provide a means to change fonts and colours. However, because we have direct access to the CSS files, we are able to change many style attributes, such as font.
 
 Within a Jekyll theme, there are typically multiple font families used, such as one for titles, headings, and body text. The easiest way to find where the font families are set is by doing a global search on you Jekyll theme files (I am using [Atom](https://atom.io/) here):
 
@@ -57,3 +59,9 @@ You can change the font family for the different components of your Jekyll theme
 On the right slide-out menu, copy the code snippet into the `<head>` of your html. In most Jekyll themes, the best place to place this will be in the `_layouts/default.html` file:
 
 ![Changing Fonts]({{ site.baseurl }}{{ "/assets/images/how-to-customize-a-jekyll-theme-4.png" }})
+
+#### Changing Colours
+
+Similar to changing fonts, we are able to change the colour of many elements of Jekyll themes by changing the CSS files. To find where the change can be made, right-click on any element of your Jekyll theme that you would like to change the colour of, and click on "Inspect". On Google Chrome, this will bring up Chrome DevTools, which will show where in the CCS file the styling of the element comes from:
+
+![Changing Colours]({{ site.baseurl }}{{ "/assets/images/how-to-customize-a-jekyll-theme-5.png" }})
