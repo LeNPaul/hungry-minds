@@ -38,7 +38,7 @@ For a guide on how to start a blog or personal website using Jekyll and GitHub p
 
 By default, when you set up a Jekyll site hosted on GitHub Pages, GitHub will provide your site with a unique URL. If you name your repository `<username>.github.io`, then your URL will be `https://<username>.github.io`. If you name your repository anything else, then your URL will be `https://<username>.github.io/<repository name>`.
 
-GitHub Pages allows you to bring your own domain name and host your Jekyll site through that domain name. Each domain name provider will have different steps for configuring your domain with GitHub Pages. The following is a list of tutorials for using a custom domain name from popular domain name providers:
+GitHub Pages allows you to host your Jekyll site through your own domain name using a domain name provider. Each domain name provider will have different steps for configuring your domain name with GitHub Pages. The following is a list of tutorials for using a custom domain name from popular domain name providers:
 
 1. [Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages/)
 
@@ -60,23 +60,23 @@ You can then change the font family for the different components of your Jekyll 
 
 #### Using Google Fonts
 
-[Google Fonts](https://fonts.google.com/) is a popular source of fonts that are used by many Jekyll themes. From the home page, choose a font that you would like to use, and select all the styles that you need (you will usually need a regular, bold, an italicized style). Once you have your font styles selected, on the top right, there is a menu that you can click on that will slide out:
+[Google Fonts](https://fonts.google.com/) is a popular source of fonts that are used by many Jekyll themes. From the home page, choose a font that you would like to use, and select all the styles that you need (you will usually need a regular, bold, and italicized style). Once you have your font styles selected, on the top right, there is a menu that you can click on that will slide out:
 
 ![Changing Fonts]({{ site.baseurl }}{{ "/assets/images/how-to-customize-a-jekyll-theme-3.png" }})
 
-On the right slide-out menu, copy the code snippet into the `<head>` of your html. In most Jekyll themes, the best place to place this will be in the `_layouts/default.html` file:
+On the right slide-out menu, copy the code snippet into the `<head>` of your html. In most Jekyll themes, the best place to paste this will be in the `_layouts/default.html` file:
 
 ![Changing Fonts]({{ site.baseurl }}{{ "/assets/images/how-to-customize-a-jekyll-theme-4.png" }})
 
 #### Changing Colours
 
-Similar to changing fonts, we can change the colour of many elements of Jekyll themes by changing the CSS files. To find where the change can be made, right-click on any element of your Jekyll theme that you would like to change the colour of, and click on "Inspect". On Google Chrome, this will bring up Chrome DevTools, which will show where in the CCS file the styling of the element comes from:
+Similar to changing fonts, we can change the colour of many elements of a Jekyll theme by changing the CSS files. To find where the change should be made, right-click on any element of your Jekyll theme that you would like to modify, and click on "Inspect". On Google Chrome, this will bring up [Chrome DevTools](https://developer.chrome.com/docs/devtools/), which will show where in the CCS file the styling of the element comes from:
 
 ![Changing Colours]({{ site.baseurl }}{{ "/assets/images/how-to-customize-a-jekyll-theme-5.png" }})
 
 #### Adding New Pages
 
-Besides the home page and posts, most Jekyll themes have additional pages such as "Contact" and "About" pages. You can also add your own pages by adding markdown files in the root directory of your Jekyll theme, with `layout: page` at the top:
+Besides the home page and posts, most Jekyll themes have additional pages such as "Contact" and "About" pages. You can also add your own pages by adding markdown files to the root directory of your Jekyll theme, with `layout: page` in your [YAML front matter block](https://jekyllrb.com/docs/front-matter/):
 
 ![Adding New Pages]({{ site.baseurl }}{{ "/assets/images/how-to-customize-a-jekyll-theme-6.png" }})
 
@@ -84,7 +84,9 @@ You can then access these pages with the URL `<site baseurl>/<filename>`. If you
 
 #### Modifying Page and Post Layouts
 
-Every Jekyll theme should have three layouts, a `default.html`, `page.html`, and `post.html` layout. The default layout is the base layout that the page and post layouts are built on. Pages typically do not have a date associated with them and are used for pages such as "Contact" and "About" pages, and posts are used for blog posts that have a date associated. Typically, you may want to modify the `post.html` layout if you want to change how your blog posts look. The following are some examples of changes you may want to make:
+Every Jekyll theme should have at least three layouts in the `_layouts` directory: a `default.html`, `page.html`, and `post.html` layout. The "default" layout is the base layout that the page and post layouts are built on. The "page" layout can be used for "Contact" and "About" pages. The "post" layout is usually used for blog posts.
+
+Typically, you may want to modify the `post.html` layout if you want to change how your blog posts look. The following are some examples of changes you may want to make:
 
 ##### Showing Date Published
 
@@ -118,13 +120,13 @@ The following code snippet is an example on how to show the top three related po
 
 #### Modifying Menu Layouts
 
-Jekyll themes typically have a menu or navigation bar. This is usually defined as an "includes" component in the `_includes` directory. For example, it may be called `_includes/sidebar.html`. Depending on the theme, the menu elements in the sidebar may be hard-coded, or it may be configured in a yaml file somewhere. In this case, the menu items are configured in the `_data/settings.yml` file. Combined with [adding new pages](#adding-new-pages), you can create a variety of menu pages.
+Jekyll themes typically have a menu or navigation bar. This is usually defined as an "includes" component in the `_includes` directory. For example, it may be called `_includes/sidebar.html`. Depending on the theme, the menu elements in the sidebar may be hard-coded, or it may be configured in a YAML file somewhere. In the example below, the menu items are configured in the `_data/settings.yml` file. Combined with [adding new pages](#adding-new-pages), you can create a variety of menu pages.
 
 ![Modifying Menu Layouts]({{ site.baseurl }}{{ "/assets/images/how-to-customize-a-jekyll-theme-7.png" }})
 
 #### Troubleshooting Build Errors
 
-Whenever you make a change to your Jekyll site and push that change to GitHub Pages, your Jekyll site will be rebuilt. Occasionally, you will come across a build error indicating that there was an error due to a change that you had made. You will usually be sent an email, and if you look at your commit on GitHub there will be a red sign indicating a build error:
+Whenever you push a change to your Jekyll site to GitHub Pages, your Jekyll site will be rebuilt. Occasionally, you will come across a build error indicating that there was an error due to a change that you had made. You will usually be sent an email, and if you look at your commit history on GitHub there will be a red sign indicating a build error:
 
 ![Troubleshooting Build Errors]({{ site.baseurl }}{{ "/assets/images/how-to-customize-a-jekyll-theme-8.png" }})
 

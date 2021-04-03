@@ -18,11 +18,11 @@ This series will walk you through everything you need to know in order to become
 
 1. **[How to Start a Blog or Personal Website Using Jekyll and GitHub Pages:]({% post_url 2021-02-23-how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages %})** This guide will walk you through the process of starting a personal website or blog using Jekyll and hosting your site on GitHub pages.
 
-2. **[How to Customize a Jekyll Theme:]()** This guide will walk you through common changes that can be done to personalize your Jekyll Theme.
+2. **[How to Customize a Jekyll Theme:]({% post_url 2021-03-02-how-to-customize-a-jekyll-theme %})** This guide will walk you through common changes that can be done to personalize your Jekyll Theme.
 
-3. **[How to Create Your Own Jekyll Theme:]()** This guide will walk you through the process of creating your very own Jekyll theme from scratch.
+<!-- 3. **[How to Create Your Own Jekyll Theme:]()** This guide will walk you through the process of creating your very own Jekyll theme from scratch.
 
-4. **[Releasing a New Jekyll Theme:]()** My own process and journey of releasing a new version of [Lagrange](https://lenpaul.github.io/Lagrange/), one of my most popular Jekyll themes.
+4. **[Releasing a New Jekyll Theme:]()** My own process and journey of releasing a new version of [Lagrange](https://lenpaul.github.io/Lagrange/), one of my most popular Jekyll themes. -->
 
 #### What is Jekyll?
 
