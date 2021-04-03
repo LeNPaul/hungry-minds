@@ -76,7 +76,7 @@ Similar to changing fonts, we can change the colour of many elements of a Jekyll
 
 #### Adding New Pages
 
-Besides the home page and posts, most Jekyll themes have additional pages such as "Contact" and "About" pages. You can also add your own pages by adding markdown files to the root directory of your Jekyll theme, with `layout: page` in your [YAML front matter block](https://jekyllrb.com/docs/front-matter/):
+Besides the home page and posts, most Jekyll themes have additional pages such as "Contact" and "About" pages. You can also add your own [pages](https://jekyllrb.com/docs/pages/) by adding markdown files to the root directory of your Jekyll theme, with `layout: page` in your [YAML front matter block](https://jekyllrb.com/docs/front-matter/):
 
 ![Adding New Pages]({{ site.baseurl }}{{ "/assets/images/how-to-customize-a-jekyll-theme-6.png" }})
 
@@ -84,7 +84,7 @@ You can then access these pages with the URL `<site baseurl>/<filename>`. If you
 
 #### Modifying Page and Post Layouts
 
-Every Jekyll theme should have at least three layouts in the `_layouts` directory: a `default.html`, `page.html`, and `post.html` layout. The "default" layout is the base layout that the page and post layouts are built on. The "page" layout can be used for "Contact" and "About" pages. The "post" layout is usually used for blog posts.
+Every Jekyll theme should have at least three [layouts](https://jekyllrb.com/docs/layouts/) in the `_layouts` directory: a `default.html`, `page.html`, and `post.html` layout. The "default" layout is the base layout that the page and post layouts are built on. The "page" layout can be used for "Contact" and "About" pages. The "post" layout is usually used for blog posts.
 
 Typically, you may want to modify the `post.html` layout if you want to change how your blog posts look. The following are some examples of changes you may want to make:
 
@@ -120,14 +120,16 @@ The following code snippet is an example on how to show the top three related po
 
 #### Modifying Menu Layouts
 
-Jekyll themes typically have a menu or navigation bar. This is usually defined as an "includes" component in the `_includes` directory. For example, it may be called `_includes/sidebar.html`. Depending on the theme, the menu elements in the sidebar may be hard-coded, or it may be configured in a YAML file somewhere. In the example below, the menu items are configured in the `_data/settings.yml` file. Combined with [adding new pages](#adding-new-pages), you can create a variety of menu pages.
+Jekyll themes typically have a menu or navigation bar. This is usually defined as an [`includes` component](https://jekyllrb.com/docs/includes/) in the `_includes` directory. For example, it may be called `_includes/sidebar.html`. Depending on the theme, the menu elements in the sidebar may be hard-coded, or it may be configured in a [YAML data file](https://jekyllrb.com/docs/datafiles/) somewhere. In the example below, the menu items are configured in the `_data/settings.yml` file. Combined with [adding new pages](#adding-new-pages), you can create a variety of custom menu pages.
 
 ![Modifying Menu Layouts]({{ site.baseurl }}{{ "/assets/images/how-to-customize-a-jekyll-theme-7.png" }})
 
 #### Troubleshooting Build Errors
 
-Whenever you push a change to your Jekyll site to GitHub Pages, your Jekyll site will be rebuilt. Occasionally, you will come across a build error indicating that there was an error due to a change that you had made. You will usually be sent an email, and if you look at your commit history on GitHub there will be a red sign indicating a build error:
+Whenever you push a change to your Jekyll site to GitHub Pages, your Jekyll site will be rebuilt. Occasionally, you will come across a build error indicating that there was an error due to a change that you had made. You will usually be sent an email, and if you look at your commit history on GitHub there will be a red mark next to that commit indicating a build error:
 
 ![Troubleshooting Build Errors]({{ site.baseurl }}{{ "/assets/images/how-to-customize-a-jekyll-theme-8.png" }})
 
-Unfortunately, the error log that is sent in these emails is usually not very helpful. To mitigate build errors, you should make changes to your site with your Jekyll site running locally so that any errors will be caught immediately. If you come across a build error, compare your previous commit with the changes that you had made.
+Unfortunately, the error log that is sent in these emails is usually not very helpful, although [the article that it links to](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/troubleshooting-jekyll-build-errors-for-github-pages-sites) does include plenty of useful troubleshooting tips. To mitigate build errors, you should make changes to your site with your Jekyll site running locally so that any errors will be caught immediately.
+
+If you come across a build error on GitHub and are unable to find the cause, revert to a previously working commit. Compare your working commit with the changes that you had made, making small changes until you find the change that had caused the error.
