@@ -18,7 +18,7 @@ I first read *The Power of Habit* by Charles Duhigg when I was in university. It
 
 We depend on habits on a daily basis to live our lives. Habits allow us to perform a wide variety of complicated activities without requiring significant brain power. However, this can become detrimental when we lose control of our habits.
 
-Fortunately, we are able to change our habits, and if we understand the process of how habits work, this becomes easier. Habits operate based on the habit loop:
+Fortunately, we are able to change our habits. If we understand the process of how habits work, this becomes easier. Habits operate based on the habit loop:
 
 > This process within our brains is a three-step loop. First, there is a cue, a trigger that tells your brain to go into automatic mode and which habit to use. Then there is the routine, which can be physical or mental or emotional. Finally, there is a reward, which helps your brain figure out if this particular loop is worth remembering for the future
 
@@ -33,5 +33,25 @@ Finally, belief makes a big different in the formation of habits.
 > The evidence is clear: If you want to change a habit, you must find an alternative routine, and your odds of success go up dramatically when you commit to changing as part of a group. Belief is essential, and it grows out of a communal experience, even if that community is only as large as two people.
 
 #### The Habits of Successful Organizations
+
+The most important habits are keystone habits. These habits have the power to start a chain reaction, changing other habits, both on an individual and organizational level. They help other habits to flourish by creating new structures. Within organizations, cultures grow out of keystone habits.
+
+Examples of keystone habits include keeping lists, visualizing the perfect scenario prior to a performance, keeping a journal (especially a food journal for losing weight), grit, and exercise. Willpower is an important keystone habit for individual success. The best way to stengthen willpower is to make it into a habit.
+
+> Willpower isn’t just a skill. It’s a muscle, like the muscles in your arms or legs, and it gets tired as it works harder, so there’s less power left over for other things... As people strengthened their willpower muscles in one part of their lives—in the gym, or a money management program—that strength spilled over into what they ate or how hard they worked. Once willpower became stronger, it touched everything.
+
+When you employ the same rules as the habit loop and plan around painful inflection points where you would usually give you, you increase your willpower.
+
+> This is how willpower becomes a habit: by choosing a certain behavior ahead of time, and then following that routine when an inflection point arrives.
+
+> When people are asked to do something that takes self-control, if they think they are doing it for personal reasons—if they feel like it’s a choice or something they enjoy because it helps someone else—it’s much less taxing. If they feel like they have no autonomy, if they’re just following orders, their willpower muscles get tired much faster.
+
+> For companies and organizations, this insight has enormous implications. Simply giving employees a sense of agency—a feeling that they are in control, that they have genuine decision-making authority—can radically increase how much energy and focus they bring to their jobs.
+
+All organizations operate through organizational habits - unwritten rules that emerge though interaction between everyone in an organization. They create truces between warring entities and ensure that an equilibrium is achieved between everyone. However, unbalanced truces cause issues. Conversely, it also needs to be clear who is in charge and has ultimate responsibility. There must be a balance between both sides. During turmoil, organizational habits become malleable enough to both assign responsibility and create a more equitable balance of power. During a crisis, this allows leaders to remake organizational habits.
+
+People like familiarity - this is like a habit. When people experience something familiar, there is less brain activity needed. We can use this understanding to influence how taste in something is developed.
+
+> Whether selling a new song, a new food, or a new crib, the lesson is the same: If you dress a new something in old habits, it’s easier for the public to accept it.
 
 #### The Habits of Societies
