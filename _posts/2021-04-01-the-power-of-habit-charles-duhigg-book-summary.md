@@ -30,7 +30,7 @@ Preceding the habit loop is a craving that makes you anticipate the reward, trig
 
 You can not extinguish a bad habit - you can only change it. Even when you remove the craving, the habit will still be there. This is why it is difficult to get rid of a habit.
 
-However, the habit loop is delicate. If we keep the cue and reward, but insert a new routine, then we can change a habit. Other factors, such as belief, are also important when changing or building new habits.
+However, the habit loop is delicate. If we keep the cue and reward, but insert a new routine, then we can change a habit. Other factors, such as belief and who you surround yourself with are also important when changing or building new habits.
 
 > The evidence is clear: If you want to change a habit, you must find an alternative routine, and your odds of success go up dramatically when you commit to changing as part of a group. Belief is essential, and it grows out of a communal experience, even if that community is only as large as two people.
 
@@ -38,7 +38,7 @@ However, the habit loop is delicate. If we keep the cue and reward, but insert a
 
 The most important habits are keystone habits. These are habits that have the power to start a chain reaction, creating structures that change or create new habits. This is true both on an individual and organizational level.
 
-Within organizations, keystone habits such as focusing on safety lead to cultures that ultimately lead to better profits. For individuals, keystone habits such as keeping a journal and exercising lead to other habits such as getting enough sleep and eating well. Other examples of keystone habits include keeping lists, visualizing the perfect scenario prior to a performance, and grit.
+Within organizations, keystone habits such as focusing on safety foster cultures that ultimately lead to better profits. For individuals, keystone habits such as keeping a journal and exercising lead to other habits such as getting enough sleep and eating well. Other examples of keystone habits include keeping lists, visualizing the perfect scenario prior to a performance, and grit.
 
 ##### Willpower
 
@@ -52,21 +52,19 @@ When you employ the same rules as the habit loop and plan around painful inflect
 
 Furthermore, when individuals have a sense of autonomy, their willpower increases.
 
-> When people are asked to do something that takes self-control, if they think they are doing it for personal reasons—if they feel like it’s a choice or something they enjoy because it helps someone else—it’s much less taxing. If they feel like they have no autonomy, if they’re just following orders, their willpower muscles get tired much faster.
-
-> For companies and organizations, this insight has enormous implications. Simply giving employees a sense of agency—a feeling that they are in control, that they have genuine decision-making authority—can radically increase how much energy and focus they bring to their jobs.
+> When people are asked to do something that takes self-control, if they think they are doing it for personal reasons—if they feel like it’s a choice or something they enjoy because it helps someone else—it’s much less taxing. If they feel like they have no autonomy, if they’re just following orders, their willpower muscles get tired much faster... For companies and organizations, this insight has enormous implications. Simply giving employees a sense of agency—a feeling that they are in control, that they have genuine decision-making authority—can radically increase how much energy and focus they bring to their jobs.
 
 #### The Habits of Successful Organizations
 
 ##### Organizational Habits
 
-All organizations operate through organizational habits. These are unwritten rules that emerge though interaction between individuals in an organization. They create truces between warring entities and ensure that an equilibrium is achieved. However, unbalanced truces cause issues. Conversely, it also needs to be clear who is in charge and has ultimate responsibility. There must be a balance between both sides.
+All organizations operate through organizational habits. These are unwritten rules that emerge though interactions between individuals in an organization. They create truces between warring entities and ensure that an equilibrium is achieved. However, unbalanced truces cause issues. Conversely, it also needs to be clear who is in charge and has ultimate responsibility. There must be a balance between both sides.
 
 During turmoil, organizational habits become malleable enough to both create a more equitable balance of power and  assign ultimately responsibility. This allows leaders to remake organizational habits.
 
 ##### Habits and Familiarity
 
-People like having a sense of familiarity. When people experience something familiar, there is less brain activity needed, similar to when habits are formed. We can use this understanding to influence how taste in something is developed.
+People like having a sense of familiarity. When people experience something familiar, there is less brain activity needed, similar to how habits operate. We can use this understanding to influence how taste in something is developed.
 
 > Whether selling a new song, a new food, or a new crib, the lesson is the same: If you dress a new something in old habits, it’s easier for the public to accept it.
 
@@ -82,13 +80,15 @@ Social habits are responsible for movements. There are three steps that need to 
 
 3. "And it endures because a movement’s leaders give participants new habits that create a fresh sense of identity and a feeling of ownership.”
 
-Strong ties are our immediate relationships, such as friendships and family. Weak ties are our acquaintances, which often span diverse groups. Weak ties are often just as influential as strong ties, where peer pressure - a powerful social habit - causes strangers to participate even if they would have otherwise declined.
+Strong ties are our immediate relationships, such as friendships and family. Weak ties are our acquaintances, which often span diverse groups.
 
 > In fact, in landing a job, Granovetter discovered, weak-tie acquaintances were often more important than strong-tie friends because weak ties give us access to social networks where we don’t otherwise belong
 
-Without weak ties, any momentum generated will not be spread beyond a small group. For the idea to grow, it must become self-propelling, which is achieved as people are given new habits.
+Weak ties are often just as influential as strong ties, where peer pressure - a powerful social habit - causes strangers to participate even if they would have otherwise declined. Without weak ties, any momentum generated would not spread beyond a small group.
 
 > Individuals with few weak ties will be deprived of information from distant parts of the social system and will be confined to the provincial news and views of their close friends. This deprivation will not only insulate them from the latest ideas and fashions but may put them in a disadvantaged position in the labor market, where advancement can depend … on knowing about appropriate job openings at just the right time.
+
+For the idea to grow, it must become self-propelling, which is achieved as people are given new habits by leaders of social movements.
 
 > Movements don’t emerge because everyone suddenly decides to face the same direction at once. They rely on social patterns that begin as the habits of friendship, grow through the habits of communities, and are sustained by new habits that change participants’ sense of self.
 
@@ -96,6 +96,6 @@ Without weak ties, any momentum generated will not be spread beyond a small grou
 
 Are some habits so powerful that they overwhelm our capacity to make choices? Why do some habits seem easy to control but others out of reach? Does this absolve us of responsibility? Is it right to make a distinction?
 
-These are difficult questions to answer. Near misses can look like wins to gamblers. People experiencing sleep terror do not have conscious control of their actions. It is unclear if nature or nurture is more important in determining whether an individual falls into any of these categories.
+These are difficult questions to answer. Near misses can look like wins to gamblers, compelling them to continue. People experiencing sleep terror do not have conscious control of their actions. It is unclear if nature or nurture is more important in determining whether an individual falls into any of these categories.
 
 Ultimately, you can change habits, but you have to know they exist, and decide to change.
