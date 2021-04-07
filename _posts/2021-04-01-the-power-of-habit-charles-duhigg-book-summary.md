@@ -55,3 +55,25 @@ People like familiarity - this is like a habit. When people experience something
 > Whether selling a new song, a new food, or a new crib, the lesson is the same: If you dress a new something in old habits, it’s easier for the public to accept it.
 
 #### The Habits of Societies
+
+Social habits are responsible for movements. There are three steps that need to be fulfilled for a movement to take off:
+
+1. “A movement starts because of the social habits of friendship and the strong ties between close acquaintances.”
+
+2. “It grows because of the habits of a community, and the weak ties that hold neighborhoods and clans together."
+
+3. "And it endures because a movement’s leaders give participants new habits that create a fresh sense of identity and a feeling of ownership.”
+
+Strong ties are our immediate relationships - friendships and family. Weak ties are our acquaintances, which often span different groups. Weak ties are often just as influencial as strong ties, and where peer pressure (a powerful social habit) causes strangers to participate.
+
+> In fact, in landing a job, Granovetter discovered, weak-tie acquaintances were often more important than strong-tie friends because weak ties give us access to social networks where we don’t otherwise belong
+
+> Individuals with few weak ties will be deprived of information from distant parts of the social system and will be confined to the provincial news and views of their close friends. This deprivation will not only insulate them from the latest ideas and fashions but may put them in a disadvantaged position in the labor market, where advancement can depend … on knowing about appropriate job openings at just the right time.
+
+Without weak ties, any momentum generated will not be spread beyond the clique. For the idea to grow, it must become self-propelling, which is achieved as people are given new habits.
+
+> Movements don’t emerge because everyone suddenly decides to face the same direction at once. They rely on social patterns that begin as the habits of friendship, grow through the habits of communities, and are sustained by new habits that change participants’ sense of self.
+
+Are some habits so powerful that they overwhelm our capacity to make choices? Does this absolve us of responsibility?
+
+Near misses can look like wins to gamblers. People experiencing sleep terror do not have conscious control. It is unclear if nature or nuture is more important. Why do some habits seem easy to control but others out of reach? Is it right to make a distinction? Ultimate, you can change habits, but you have to know it exists and decide to change.

@@ -5,8 +5,8 @@ categories: [ book summary ]
 tags: [ career ]
 image: assets/images/100-startup-chris-guillebeau.png
 description: "The $100 Startup by Chris Guillebeau Book Summary"
-featured: true
-hidden: true
+featured: false
+hidden: false
 comments: false
 ---
 
