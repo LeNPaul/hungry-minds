@@ -30,7 +30,7 @@ Preceding the habit loop is a craving that makes you anticipate the reward, trig
 
 You can not extinguish a bad habit - you can only change it. Even when you remove the craving, the habit will still be there. This is why it is difficult to get rid of a habit.
 
-However, the habit loop is delicate. If we keep the cue and reward, but insert a new routine, then we can change a habit. Other factors, such as belief and who you surround yourself with are also important when changing or building new habits.
+However, the habit loop is delicate. If we keep the cue and reward, but insert a new routine, then we can change the habit. Other factors, such as belief and who you surround yourself with are also important when changing or building new habits.
 
 > The evidence is clear: If you want to change a habit, you must find an alternative routine, and your odds of success go up dramatically when you commit to changing as part of a group. Belief is essential, and it grows out of a communal experience, even if that community is only as large as two people.
 
@@ -72,7 +72,7 @@ People like having a sense of familiarity. When people experience something fami
 
 ##### Social Movements
 
-Social habits are responsible for movements. There are three steps that need to be fulfilled for a movement to gain momentum:
+Social habits are responsible for social movements. There are three steps that need to be fulfilled for a social movement to gain momentum:
 
 1. “A movement starts because of the social habits of friendship and the strong ties between close acquaintances.”
 
