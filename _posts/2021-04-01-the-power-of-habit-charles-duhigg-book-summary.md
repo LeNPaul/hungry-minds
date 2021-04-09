@@ -2,7 +2,7 @@
 layout: post
 title:  "The Power of Habit by Charles Duhigg Book Summary"
 categories: [ book summary ]
-tags: [ career ]
+tags: [ personal development ]
 image: assets/images/the-power-of-habit-charles-duhigg-book-summary.png
 description: "The Power of Habit by Charles Duhigg Book Summary"
 featured: true

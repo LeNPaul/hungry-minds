@@ -2,7 +2,7 @@
 layout: post
 title:  "The Inner Game of Tennis by Timothy Gallwey Book Summary"
 categories: [ book summary ]
-tags: [ career ]
+tags: [ personal development ]
 image: assets/images/the-inner-game-of-tennis-timothy-gallwey-book-summary.png
 description: "The Inner Game of Tennis by Timothy Gallwey Book Summary"
 featured: true
