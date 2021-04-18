@@ -5,8 +5,8 @@ categories: [ book summary ]
 tags: [ personal development ]
 image: assets/images/the-power-of-habit-charles-duhigg-book-summary.png
 description: "The Power of Habit by Charles Duhigg Book Summary"
-featured: true
-hidden: true
+featured: false
+hidden: false
 comments: false
 ---
 
