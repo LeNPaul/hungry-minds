@@ -36,5 +36,6 @@ google_fonts:
 navigation_pages:
   - about.md
   - summaries.md
+  - lessons.md
   - archive.md
   - cv.md

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Just Did It."
-category: blog
+category: [ lessons learned ]
 ---
 
 A common roadblock that many people — including myself — come across when trying to do anything, is always waiting for things to be perfect before starting.
